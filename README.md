@@ -9,7 +9,7 @@ This repository contains all material used in our paper entitle: " 4W+H Model fo
 
 ## Refactoring Documentation Model
 This following table represents tha refactoring documentation model reported by our interviwees. 
-
+![ImageDescription](./refmodel.PNG)
 ## Survey
 #### Survey Design 
 * The file of our survey questions is provided under the name : refactoringsurveyquestions.pdf
