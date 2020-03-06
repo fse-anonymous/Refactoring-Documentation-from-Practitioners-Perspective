@@ -28,6 +28,6 @@ This following table represents tha refactoring documentation model reported by 
 #### Manual Analysis of commit messages
 * Our tagged data after the manual analysis is provided here :  [Manual tagged data](./resultsQuantitativeAnalysis.csv)
 
-## Main highlights and results of the quantitative analysis is found at : 
+## Visualizations and main results of our study can be found at: https://sites.google.com/view/fse20206refactoringdoc/home
 
 
