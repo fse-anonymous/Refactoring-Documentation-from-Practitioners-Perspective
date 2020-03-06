@@ -22,7 +22,7 @@ This following table represents tha refactoring documentation model reported by 
 ## Quantitaive Analysis
 #### Data Collection and Sampling
 * Our collected refactoring-related commit messages data (the raw data) is found at: https://drive.google.com/open?id=1cdE43AhMjZUumVglR7Lr5eOk32-T3o-A
-* Our filtered sample  of commit messages used in our manual inspection is found in the file quantitativeAnalysisData.csv in this directory. 
+* Our filtered sample  of commit messages used in our manual inspection here : [Sample of commit messages for manual inspection](./QuantitativeAnalysisData.csv)
 * Brief statistics about the studied projects in our sample : 
 ![ImageDescription](./statistics.PNG)
 #### Manual Analysis of commit messages
