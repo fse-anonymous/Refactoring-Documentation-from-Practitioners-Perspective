@@ -26,7 +26,7 @@ This following table represents tha refactoring documentation model reported by 
 * Brief statistics about the studied projects in our sample : 
 ![ImageDescription](./statistics.PNG)
 #### Manual Analysis of commit messages
-* Our tagged data after the manual analysis is provided in the file named ManualTaggedData.csv. 
+* Our tagged data after the manual analysis is provided here :  [Manual tagged data](./resultsQuantitativeAnalysis.csv)
 
 ## Main highlights and results of the quantitative analysis is found at : 
 
