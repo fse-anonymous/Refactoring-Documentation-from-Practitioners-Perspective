@@ -7,7 +7,8 @@ This repository contains all material used in our paper entitle: " 4W+H Model fo
 * [Quantitative Analysis](#quantitative-analysis)
 
 ## Survey
-[Refactoring-Documentation-from-Practitioners-Perspective](survey/readme.md)
+[survey/readme.md](Refactoring-Documentation-from-Practitioners-Perspective
+)
 	
 ## Quantitaive Analysis
 Project is created with:
