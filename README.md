@@ -2,24 +2,15 @@
 # Refactoring-Documentation-from-Practitioners-Perspective
 This repository contains all material and data used in our study as well as the developers' anonymized answers. 
 ## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
+* [Survey](#survey)
+* [Quantitative Analysis](#quantitative-analysis)
 
-## General info
-This project is simple Lorem ipsum dolor generator.
+## Survey
+This section contains 
 	
-## Technologies
+## Quantitaive Analysis
 Project is created with:
 * Lorem version: 12.3
 * Ipsum version: 2.33
 * Ament library version: 999
-	
-## Setup
-To run this project, install it locally using npm:
 
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
