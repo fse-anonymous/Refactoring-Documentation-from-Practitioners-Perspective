@@ -12,7 +12,7 @@ This following table represents tha refactoring documentation model reported by 
 ![ImageDescription](./refmodel.PNG)
 ## Survey
 #### Survey Design 
-* The file of our survey questions is provided here: [Survey Questions](./Survey_Questions.pdf)
+* The file of our survey questions is provided here: [Survey Questions](./surveyQuestions.pdf)
 #### Participants Responses 
 * We provide raw and processed data from our survey in files raw_survey_data.csv, processed_survey_data1.csv, processed_survey_data2.csv. 
 
