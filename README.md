@@ -3,7 +3,7 @@
 This repository contains all material used in our paper entitle: " 4W+H Model for Refactoring Documentation: A Practitioners' Perspective". It includes the data of our quantitative analysis, the developers'anonymized survey answers and the final results. 
 
 ## Table of contents
-* [Refactoring Documentation Model](#Rrefactoring-documentation-model)
+* [Refactoring Documentation Model](#Refactoring-documentation-model)
 * [Survey](#survey)
 * [Quantitative Analysis](#quantitative-analysis)
 
@@ -14,11 +14,10 @@ This following table represents tha refactoring documentation model reported by 
 #### Survey Design 
 * The file of our survey questions is provided here: [Survey Questions](./surveyQuestions.pdf)
 #### Participants Responses 
-* We provide raw and processed data from our survey as following:
-      *[Raw Survey data]()
-      *[Survey data part one](./sSurveyResults-secI&II.csv)
-      *[Survey data part one](./sSurveyResults-secI&II.csv)
-      *[Final processed data]()
+* We provide the extracted data from our survey as following:
+      *[Raw Survey data](./Refactoring Documentation.csv)
+      *[Survey data part one](./SurveyResults-secI&II.csv)
+      *[Survey data part one](./SurveyResults-secI&II.csv)
 ## Quantitaive Analysis
 #### Data Collection and Sampling
 * Our collected refactoring-related commit messages data (the raw data) is found at: https://drive.google.com/open?id=1cdE43AhMjZUumVglR7Lr5eOk32-T3o-A
