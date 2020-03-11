@@ -18,7 +18,7 @@ This following table represents tha refactoring documentation model reported by 
       *[Raw Survey data](./Refactoring Documentation.csv)
       *[Survey data part one](./SurveyResults-secI&II.csv)
       *[Survey data part one](./SurveyResults-secI&II.csv)
-## Quantitaive Analysis
+## Quantitative Analysis
 #### Data Collection and Sampling
 * Our collected refactoring-related commit messages data (the raw data) is found at: https://drive.google.com/open?id=1cdE43AhMjZUumVglR7Lr5eOk32-T3o-A
 * Our filtered sample  of commit messages used in our manual inspection here : [Sample of commit messages for manual inspection](./QuantitativeAnalysisData.csv)
